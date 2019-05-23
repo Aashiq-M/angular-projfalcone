@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { GeekdataService, ErrorType } from './../geekdata.service';
 
 @Component({
   selector: 'app-vehicles',
