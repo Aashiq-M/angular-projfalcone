@@ -11,6 +11,11 @@
   display: flex;
 }
 
+.veh-item:hover{
+  cursor: pointer;
+  background-color: lightskyblue;
+}
+
 .veh-name{
   padding:0 5px 0 5px;
 }
